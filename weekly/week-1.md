@@ -8,6 +8,7 @@
 - https://cplusplus.com/
 - https://en.cppreference.com/w/
 - https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/
+- https://code.visualstudio.com/docs/cpp/introvideos-cpp
 
 
 <hr>
